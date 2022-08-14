@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Chee-zaram
-- 👀 I’m interested in Backend Web Development
-- 🌱 I’m currently learning general concepts of software engineering, with focus on C, Python, Java. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Chee-zaram here, 
+An insatiable fascination seemingly drives my journey towards a dynamic destination of becoming a Backend Web Developer, and ultimately, a well rounded Software Engineer.
+I have made stops at the fundamental and general concepts of the later to understand what's under the hood, and currently at a mandatory layover, seeking a commanding level of fluency in C, Python, Java, and js. 
 
 <!---
 chee-zaram/chee-zaram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
