@@ -7,10 +7,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-An insatiable fascination seemingly drives my journey towards a dynamic destination—becoming a Backend Developer—but ultimately, a well rounded Software Engineer. 
+An insatiable fascination seemingly drives my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. 
 I have made stops at the fundamental and general concepts of the later to understand what's under the hood, and currently at a mandatory layover, seeking a commanding skill level in:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
