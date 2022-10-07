@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-An insatiable drive fuels my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. 
+An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. 
 I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and currently at a mandatory layover, seeking a commanding skill level in:
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
