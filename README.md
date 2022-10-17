@@ -10,7 +10,7 @@ I have made stops at the fundamental and general concepts of the latter to under
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="80"/>
 
-I also dabble in Technical Writing, and when I'm not coding, I could be here:
+When I'm not coding, I could be here:
 
   <a href="https://twitter.com/CheezaramOkeke">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
