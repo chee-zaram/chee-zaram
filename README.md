@@ -16,7 +16,7 @@
 * Git
 * Linux
 * [neo](https://neovim.io/)\[[Vim](https://www.vim.org/)]
-* [Python](https://www.python.org/)
+* [Python](https://www.python.org/) Programming Language
 
 #### Currently...
 Seeking a commanding skill level in;
