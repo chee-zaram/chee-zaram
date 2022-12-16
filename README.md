@@ -26,7 +26,7 @@ Seeking a commanding skill level in;
 
 Reading;
 * [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.goodreads.com/en/book/show/7936425-more-money-than-god)
-* [Programming Rust: Fast, Safe System Development](https://www.goodreads.com/book/show/25550614-programming-rust?from_search=true&from_srp=true&qid=5HA6nUtjZ2&rank=2)
+* [Programming Rust: Fast, Safe Systems Development](https://www.goodreads.com/book/show/25550614-programming-rust?from_search=true&from_srp=true&qid=5HA6nUtjZ2&rank=2)
 
 #### When I'm not coding...
 <p align="center">
