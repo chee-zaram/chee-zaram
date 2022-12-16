@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/chee-zaram?template=classic&introduction=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=true&config.timezone=Africa%2FLagos&config.twemoji=true&config.display=large)
+![Metrics](https://metrics.lecoq.io/chee-zaram?template=classic&introduction=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=false&config.twemoji=true&config.display=large)
 
 <p align="center">
   My name is actually my legal name.
@@ -13,15 +13,20 @@
 
 #### Favorite Tools
 * C Programming Language
-* Linux
-* [Python](https://www.python.org/)
 * Git
+* Linux
 * [neo](https://neovim.io/)\[[Vim](https://www.vim.org/)]
+* [Python](https://www.python.org/)
 
 #### Currently...
 Seeking a commanding skill level in;
+* Go
 * Java
 * Rust
+
+Reading;
+* [More Money Than God: Hedge Funds and the Making of a New Elite](https://www.goodreads.com/en/book/show/7936425-more-money-than-god)
+* [Programming Rust: Fast, Safe System Development](https://www.goodreads.com/book/show/25550614-programming-rust?from_search=true&from_srp=true&qid=5HA6nUtjZ2&rank=2)
 
 #### When I'm not coding...
 <p align="center">
