@@ -8,7 +8,7 @@
 ***
 #### Brief
 <p align="center">
-  An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and now currently at a mandatory layover.
+  An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and currently at a mandatory layover.
   </p>
 
 #### Favorite Tools
