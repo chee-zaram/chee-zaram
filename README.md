@@ -12,6 +12,7 @@
   </p>
 
 #### Favorite Tools
+* Bash/Zsh Scripting
 * C Programming Language
 * Git
 * Linux
