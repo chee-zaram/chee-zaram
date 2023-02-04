@@ -12,7 +12,7 @@
 * C Programming Language
 * Git
 * Linux
-* [neo](https://neovim.io/)\[[Vim](https://www.vim.org/)]
+* \[[neo](https://neovim.io/)][Vim](https://www.vim.org/)
 * [Python](https://www.python.org/) Programming Language
 
 #### Currently...
