@@ -8,12 +8,13 @@
   </p>
 
 #### Favorite Tools
-* Bash/Zsh Scripting
 * C Programming Language
 * Git
 * Linux
+* [Lua](https://lua.org)
 * \[[neo](https://neovim.io/)][Vim](https://www.vim.org/)
 * [Python](https://www.python.org/) Programming Language
+* [BZ]a?sh
 
 #### Currently...
 Seeking a commanding skill level in;
