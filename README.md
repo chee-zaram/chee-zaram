@@ -8,6 +8,7 @@ An insatiable drive facilitates my journey towards a dynamic destination—becom
 * [Lua](https://lua.org)
 * [(neo)](https://neovim.io/)?[Vim](https://www.vim.org/)
 * [Python](https://www.python.org/) Programming Language
+* [MySQL](https://www.mysql.com/)
 * [BZ]a?sh
 
 #### Currently...
@@ -16,6 +17,7 @@ An insatiable drive facilitates my journey towards a dynamic destination—becom
   <ul>
     <li>Go</li>
     <li>Java</li>
+    <li>PHP</li>
     <li>Rust</li>
   </ul>
 </details>
