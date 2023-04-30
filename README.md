@@ -1,4 +1,4 @@
-## [Chee-zaram](https://linkedin/in/chee-zaram)
+## [Chee-zaram](https://linkedin.com/in/chee-zaram)
 An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and now on a power journey.
 
 ### Favorite Tools
