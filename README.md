@@ -6,11 +6,12 @@ An insatiable drive facilitates my journey towards a dynamic destination—becom
 * **Shells**: [BZ]a?sh
 * **Editors**: [(neo)](https://neovim.io/)?[Vim](https://www.vim.org/), VSCode
 * **Programming Languages**: Python, Go, C, JavaScript, Lua, SQL
-* **Frameworks**: Flask, MySQL
+* **Frameworks**: Flask
 * **CI/CD**: GitHub Actions
+* **DBMS**: MySQL
 * **Source Code Management**: Git
-* **Virtualization/Containerization**: Docker, Vagrant.
-* **Web Servers/Others**: Nginx, Apache, HAProxy, ufw, OpenSSL.
+* **Virtualization/Containerization**: Docker, Vagrant
+* **Web Servers/Others**: Nginx, Apache, HAProxy, ufw, OpenSSL
 
 ### Currently...
 <details>
