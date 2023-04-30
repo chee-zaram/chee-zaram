@@ -1,23 +1,21 @@
-### Chee-zaram
-An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and currently at a mandatory layover.
+## [Chee-zaram](https://linkedin/in/chee-zaram)
+An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and now on a power journey.
 
-#### Favorite Tools
-* C Programming Language
-* Git
-* Linux
-* [Lua](https://lua.org)
-* [(neo)](https://neovim.io/)?[Vim](https://www.vim.org/)
-* [Python](https://www.python.org/) Programming Language
-* [MySQL](https://www.mysql.com/)
-* [BZ]a?sh
+### Favorite Tools
+* **OS**: GNU/Linux
+* **Shells**: [BZ]a?sh
+* **Editors**: [(neo)](https://neovim.io/)?[Vim](https://www.vim.org/), VSCode
+* **Programming Languages**: Python, Go, C, JavaScript, Lua, SQL
+* **Frameworks**: Flask, MySQL
+* **CI/CD**: GitHub Actions
+* **Source Code Management**: Git
+* **Virtualization/Containerization**: Docker, Vagrant.
+* **Web Servers/Others**: Nginx, Apache, HAProxy, ufw, OpenSSL.
 
-#### Currently...
+### Currently...
 <details>
   <summary>Seeking a commanding skill level in...</summary>
   <ul>
-    <li>Go</li>
-    <li>Java</li>
-    <li>PHP</li>
     <li>Rust</li>
   </ul>
 </details>
@@ -33,5 +31,5 @@ An insatiable drive facilitates my journey towards a dynamic destination—becom
     </li>
 </details>
 
-#### When I'm not coding...
+### When I'm not coding...
 * I could be [here](https://twitter.com/CheezaramOkeke)
