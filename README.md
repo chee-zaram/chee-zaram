@@ -1,5 +1,5 @@
-## [Chee-zaram](https://linkedin.com/in/chee-zaram)
-An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made stops at the fundamental and general concepts of the latter to understand what's under the hood, and now on a power journey.
+## [Chee-zaram](https://linkedin.com/in/chee-zaram) here,
+An insatiable drive facilitates my journey towards a dynamic destination—becoming a Backend Developer—but more importantly, a well-rounded Software Engineer. I have made huge stride towards the fundamental and general concepts of the latter to understand what's under the hood, and now on a power journey towards purpose.
 
 ### Favorite Tools
 * **OS**: GNU/Linux
