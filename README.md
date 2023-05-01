@@ -11,7 +11,7 @@ An insatiable drive facilitates my journey towards a dynamic destination—becom
 * **DBMS**: MySQL
 * **Source Code Management**: Git
 * **Virtualization/Containerization**: Docker, Vagrant
-* **Web Servers/Others**: Nginx, Apache, HAProxy, ufw, OpenSSL
+* **Web Servers/Others**: Nginx, Apache, HAProxy, ufw, OpenSSL, Fabric, Puppet
 
 ### Currently...
 <details>
