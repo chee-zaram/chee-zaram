@@ -1,8 +1,7 @@
 ## [Chee-zaram](https://cheezaram.tech) here,
 
 With a passion for building backends and CLI tools, and an enthusiasm for
-open-source, I find myself on a powerful journey fueled by purpose. Looking to
-learn more and work on building and maintaining cloud infrastructure.
+open-source, I find myself on a powerful journey fueled by purpose.
 
 <!-- ### Favorite Tools -->
 <!---->
