@@ -1,12 +1,12 @@
 ## [Chee-zaram](https://cheezaram.tech) here,
 
-With a passion for building backends and CLI tools, and an enthusiasm for
+With a passion for building back-ends and CLI tools, and an enthusiasm for
 open-source, I find myself on a powerful journey fueled by purpose.
 
 <!-- ### Favorite Tools -->
 <!---->
 <!-- - **Programming Languages**: Go, Python, C, JavaScript, Lua, SQL -->
-<!-- - **Web Frameworks**: Flask, Gin -->
+<!-- - **Web Frameworks**: Django, Flask, Gin -->
 <!-- - **CI/CD**: GitHub Actions, Jenkins -->
 <!-- - **DBMS**: MySQL, PostgreSQL -->
 <!-- - **Virtualization/Containerization**: Docker, Vagrant -->
