@@ -1,7 +1,9 @@
 ## [Chee-zaram](https://cheezaram.tech) here,
 
-With a passion for building back-ends and CLI tools, and an enthusiasm for
-open-source, I find myself on a powerful journey fueled by purpose.
+I have a passion for building web application back-ends and creating
+cloud-enabling tools. Additionally, I'm enthusiastic about distributed systems,
+cloud computing, and open-source projects. It's this passion and enthusiasm that
+drive me on a purposeful journey.
 
 <!-- ### Favorite Tools -->
 <!---->
