@@ -1,9 +1,9 @@
 ## [Chee-Zaram](https://cheezaram.tech) here,
 
-I have a passion for building web application back-ends and creating
-cloud-enabling tools. I'm also enthusiastic about distributed systems,
-cloud computing, open-source projects, and working with data to strengthen systems.
-It's this passion and enthusiasm that drive me on a purposeful journey.
+I build web application back-ends and cloud-enabling tools. I'm also
+enthusiastic about distributed systems, cloud computing, open-source projects,
+and working with data to strengthen systems.
+It's this passion and enthusiasm that drive me on my purposeful journey.
 
 <!-- ### Favorite Tools -->
 <!---->
